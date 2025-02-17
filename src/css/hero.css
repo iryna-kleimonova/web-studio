@@ -9,7 +9,7 @@
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(img/hero/office-mob-1x.jpg);
+    url('/img/hero/office-mob-1x.jpg');
   background-repeat: no-repeat;
   background-position: center center;
 
@@ -23,7 +23,7 @@
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(img/hero/office-mob-2x.jpg);
+      url('/img/hero/office-mob-2x.jpg');
   }
 }
 
@@ -74,7 +74,7 @@
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(img/hero/office-tab-1x.jpg);
+      url('/img/hero/office-tab-1x.jpg');
   }
 
   @media screen and (min-resolution: 2x), (-webkit-min-device-pixel-ratio: 2x) {
@@ -83,7 +83,7 @@
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(img/hero/office-tab-2x.jpg);
+        url('/img/hero/office-tab-2x.jpg');
     }
   }
 
@@ -110,7 +110,7 @@
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(img/hero/office-1x.jpg);
+      url('/img/hero/office-1x.jpg');
   }
 
   @media screen and (min-resolution: 2x), (-webkit-min-device-pixel-ratio: 2x) {
@@ -119,7 +119,7 @@
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(img/hero/office-2x.jpg);
+        url('/img/hero/office-2x.jpg');
     }
   }
 
